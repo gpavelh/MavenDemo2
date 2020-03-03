@@ -7,10 +7,5 @@ public class Hello {
         System.out.println("Hello World!!!!!conflict");
         System.out.println("Hello World!!!!!conflict");
         System.out.println("Hello World!!!!!conflict");
-        System.out.println("Hello World!!!!!tonton1");
-        System.out.println("Hello World!!!!!tonton2");
-        System.out.println("Hello World!!!!!tonton3");
-        System.out.println("Hello World!!!!!tonton4");
-        System.out.println("Hello World!!!!!tonton5");
     }
 }
